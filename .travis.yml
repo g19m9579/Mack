@@ -4,11 +4,9 @@ mono: none
 dist: focal
 os:
   - osx
-  - linux
-  - windows
 script:
   - dotnet test
 jobs:
   include:
   - dotnet: 5.0
-  - dotnet: 2.1
+  - dotnet: 2.1.502
