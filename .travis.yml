@@ -1,7 +1,7 @@
 language: csharp
 solution: Oware.sln
 os:
-  - Focal Fossa Ubuntu
+  - focal
   - osx
 script:
   - dotnet test
