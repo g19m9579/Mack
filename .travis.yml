@@ -9,4 +9,4 @@ script:
 jobs:
   include:
   - dotnet: 5.0.202
-  - dotnet: 2.1
+  
