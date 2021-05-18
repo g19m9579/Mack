@@ -1,8 +1,8 @@
 language: csharp
 solution: Oware.sln
 mono: none
+dist: focal
 os:
-  - focal
   - osx
   - linux
   - windows
