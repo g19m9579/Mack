@@ -8,5 +8,5 @@ script:
   - dotnet test
 jobs:
   include:
-  - dotnet: 5.0
-  - dotnet: 2.1.502
+  - dotnet: 5.0.202
+  - dotnet: 2.1
